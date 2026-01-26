@@ -36,3 +36,17 @@ X shape: 891,9
 y shape: 891,1
 
 Train-test split: 80/20
+
+#Day 4 – Logistic Regression
+
+Model used: Logistic Regression
+
+Accuracy: 80
+
+Observations from confusion matrix:
+
+More False negatives
+
+Precision/Recall for survival class:
+0-  0.82      0.86
+1 - 0.78      0.73
